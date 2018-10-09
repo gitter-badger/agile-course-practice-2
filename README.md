@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/agile-course-practice-2017/Lobby](gitter-badge)](https://gitter.im/agile-course-practice-2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](travis-badge)][travis]
-[![Coverage Status](coveralls-badge)](coveralls)
+[![Coverage Status](coveralls-badge)](coveralls) [![Join the chat at https://gitter.im/agile-course-practice-2018/Lobby](https://badges.gitter.im/agile-course-practice-2018/Lobby.svg)](https://gitter.im/agile-course-practice-2018/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
   - Нижегородский государственный университет имени Н.И. Лобачевского (ННГУ)
     - Институт ИТММ, кафедра МОСТ
